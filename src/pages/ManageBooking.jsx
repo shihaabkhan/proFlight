@@ -583,19 +583,19 @@ const ManageBooking = () => {
                 <h4 className="font-medium mb-2">What You Can Do</h4>
                 <ul className="text-sm text-gray-600 space-y-2">
                   <li className="flex items-start">
-                    <span className="text-primary-600 mr-2">•</span>
+                    <span className="text-primary-600 mr-2">â¢</span>
                     <span>Check in online from 24 hours up to 1 hour before your flight</span>
                   </li>
                   <li className="flex items-start">
-                    <span className="text-primary-600 mr-2">•</span>
+                    <span className="text-primary-600 mr-2">â¢</span>
                     <span>Change your flight date, time, or destination (fees may apply)</span>
                   </li>
                   <li className="flex items-start">
-                    <span className="text-primary-600 mr-2">•</span>
+                    <span className="text-primary-600 mr-2">â¢</span>
                     <span>Add extra services like baggage, meals, or seat selection</span>
                   </li>
                   <li className="flex items-start">
-                    <span className="text-primary-600 mr-2">•</span>
+                    <span className="text-primary-600 mr-2">â¢</span>
                     <span>Cancel your booking and request a refund (subject to fare conditions)</span>
                   </li>
                 </ul>

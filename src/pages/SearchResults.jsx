@@ -234,8 +234,8 @@ const SearchResults = () => {
             onClick={() => setIsSearchFormVisible(!isSearchFormVisible)}
           >
             <div>
-              <p className="text-sm text-gray-600">New York (JFK) → Los Angeles (LAX)</p>
-              <p className="text-xs text-gray-500">Jun 15, 2023 • 1 Passenger • Economy</p>
+              <p className="text-sm text-gray-600">New York (JFK) â Los Angeles (LAX)</p>
+              <p className="text-xs text-gray-500">Jun 15, 2023 â¢ 1 Passenger â¢ Economy</p>
             </div>
             <div>
               <button className="text-primary-600">

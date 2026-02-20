@@ -539,7 +539,7 @@ const Support = () => {
                 Change flights, select seats, add extras, or update passenger information.
               </p>
               <div className="text-primary-600 font-medium">
-                Go to Manage Booking →
+                Go to Manage Booking â
               </div>
             </Link>
             
@@ -552,7 +552,7 @@ const Support = () => {
                 Get real-time updates about your flight, including delays and gate information.
               </p>
               <div className="text-primary-600 font-medium">
-                Check Flight Status →
+                Check Flight Status â
               </div>
             </Link>
           </div>

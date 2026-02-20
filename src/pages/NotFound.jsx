@@ -62,10 +62,10 @@ const NotFound = () => {
           <div className="mt-10 border-t border-gray-200 pt-8 text-sm">
             <h3 className="font-medium mb-3">You might want to try:</h3>
             <ul className="text-gray-600 space-y-2">
-              <li>• Checking the URL for typos</li>
-              <li>• Going back to the previous page</li>
-              <li>• Starting fresh from our homepage</li>
-              <li>• Using the search function above</li>
+              <li>â¢ Checking the URL for typos</li>
+              <li>â¢ Going back to the previous page</li>
+              <li>â¢ Starting fresh from our homepage</li>
+              <li>â¢ Using the search function above</li>
             </ul>
           </div>
         </div>

@@ -254,7 +254,7 @@ const CheckIn = () => {
                           <div>
                             <p className="font-medium">{flight.airline} {flight.flightNumber}</p>
                             <p className="text-sm text-gray-600">
-                              {formatDate(flight.departureTime)} • {formatTime(flight.departureTime)}
+                              {formatDate(flight.departureTime)} â¢ {formatTime(flight.departureTime)}
                             </p>
                           </div>
                           
@@ -382,7 +382,7 @@ const CheckIn = () => {
                       <div>
                         <p className="font-medium">{flight.airline} {flight.flightNumber}</p>
                         <p className="text-sm text-gray-600">
-                          {formatDate(flight.departureTime)} • {formatTime(flight.departureTime)}
+                          {formatDate(flight.departureTime)} â¢ {formatTime(flight.departureTime)}
                         </p>
                       </div>
                     </div>
@@ -508,15 +508,15 @@ const CheckIn = () => {
                 <h4 className="font-medium mb-2">What You'll Need</h4>
                 <ul className="text-sm text-gray-600 space-y-2">
                   <li className="flex items-start">
-                    <span className="text-primary-600 mr-2">•</span>
+                    <span className="text-primary-600 mr-2">â¢</span>
                     <span>Your booking reference or e-ticket number</span>
                   </li>
                   <li className="flex items-start">
-                    <span className="text-primary-600 mr-2">•</span>
+                    <span className="text-primary-600 mr-2">â¢</span>
                     <span>Passenger's last name as it appears on the booking</span>
                   </li>
                   <li className="flex items-start">
-                    <span className="text-primary-600 mr-2">•</span>
+                    <span className="text-primary-600 mr-2">â¢</span>
                     <span>Valid passport or ID for all passengers (depending on your destination)</span>
                   </li>
                 </ul>
@@ -526,19 +526,19 @@ const CheckIn = () => {
                 <h4 className="font-medium mb-2">Benefits of Online Check-In</h4>
                 <ul className="text-sm text-gray-600 space-y-2">
                   <li className="flex items-start">
-                    <span className="text-primary-600 mr-2">•</span>
+                    <span className="text-primary-600 mr-2">â¢</span>
                     <span>Skip the check-in counters at the airport</span>
                   </li>
                   <li className="flex items-start">
-                    <span className="text-primary-600 mr-2">•</span>
+                    <span className="text-primary-600 mr-2">â¢</span>
                     <span>Select your preferred seats</span>
                   </li>
                   <li className="flex items-start">
-                    <span className="text-primary-600 mr-2">•</span>
+                    <span className="text-primary-600 mr-2">â¢</span>
                     <span>Save time at the airport by going directly to bag drop (if you have checked luggage) or to security</span>
                   </li>
                   <li className="flex items-start">
-                    <span className="text-primary-600 mr-2">•</span>
+                    <span className="text-primary-600 mr-2">â¢</span>
                     <span>Receive your boarding pass electronically</span>
                   </li>
                 </ul>
