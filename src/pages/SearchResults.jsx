@@ -234,8 +234,8 @@ const SearchResults = () => {
             onClick={() => setIsSearchFormVisible(!isSearchFormVisible)}
           >
             <div>
-              <p className="text-sm text-gray-600">New York (JFK) Ã¢ÂÂ Los Angeles (LAX)</p>
-              <p className="text-xs text-gray-500">Jun 15, 2023 Ã¢ÂÂ¢ 1 Passenger Ã¢ÂÂ¢ Economy</p>
+              <p className="text-sm text-gray-600">New York (JFK) ÃÂ¢ÃÂÃÂ Los Angeles (LAX)</p>
+              <p className="text-xs text-gray-500">Jun 15, 2023 ÃÂ¢ÃÂÃÂ¢ 1 Passenger ÃÂ¢ÃÂÃÂ¢ Economy</p>
             </div>
             <div>
               <button className="text-primary-600">
