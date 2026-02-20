@@ -409,7 +409,7 @@ const Booking = () => {
                         {booking.destination}
                       </div>
                       <div className="text-xs text-gray-500">
-                        Flight {booking.flight_id} â¢ Class {booking.class}
+                        Flight {booking.flight_id} Ã¢ÂÂ¢ Class {booking.class}
                       </div>
                     </div>
                   </div>
