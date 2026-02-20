@@ -147,7 +147,7 @@ const FlightCard = ({ flight, isCompact = false }) => {
                 <div key={index} className="flex items-center text-sm mb-2">
                   <div className="w-2 h-2 bg-red-500 rounded-full mr-2"></div>
                   <span>
-                    {layover.airport} ÃÂ¢ÃÂÃÂ¢ {formatDuration(layover.durationMinutes)} layover
+                    {layover.airport} ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢ {formatDuration(layover.durationMinutes)} layover
                   </span>
                 </div>
               ))}

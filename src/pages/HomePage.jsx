@@ -63,11 +63,11 @@ const HomePage = () => {
   
   // Sample weather forecast
   const weatherForecast = [
-    { city: 'Miami', temp: '84ÃÂÃÂ°F', condition: 'Sunny', icon: <Sun size={20} className="text-yellow-500" /> },
-    { city: 'New York', temp: '72ÃÂÃÂ°F', condition: 'Partly cloudy', icon: <Sun size={20} className="text-gray-500" /> },
-    { city: 'Los Angeles', temp: '76ÃÂÃÂ°F', condition: 'Clear', icon: <Sun size={20} className="text-yellow-500" /> },
-    { city: 'Chicago', temp: '68ÃÂÃÂ°F', condition: 'Windy', icon: <Wind size={20} className="text-blue-500" /> },
-    { city: 'Orlando', temp: '82ÃÂÃÂ°F', condition: 'Rain showers', icon: <Umbrella size={20} className="text-blue-500" /> },
+    { city: 'Miami', temp: '84ÃÂÃÂÃÂÃÂ°F', condition: 'Sunny', icon: <Sun size={20} className="text-yellow-500" /> },
+    { city: 'New York', temp: '72ÃÂÃÂÃÂÃÂ°F', condition: 'Partly cloudy', icon: <Sun size={20} className="text-gray-500" /> },
+    { city: 'Los Angeles', temp: '76ÃÂÃÂÃÂÃÂ°F', condition: 'Clear', icon: <Sun size={20} className="text-yellow-500" /> },
+    { city: 'Chicago', temp: '68ÃÂÃÂÃÂÃÂ°F', condition: 'Windy', icon: <Wind size={20} className="text-blue-500" /> },
+    { city: 'Orlando', temp: '82ÃÂÃÂÃÂÃÂ°F', condition: 'Rain showers', icon: <Umbrella size={20} className="text-blue-500" /> },
   ]
 
   return (

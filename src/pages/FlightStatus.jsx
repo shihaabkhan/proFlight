@@ -243,7 +243,7 @@ const FlightStatus = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold">{flightStatus.airline}</h3>
-                    <p className="text-gray-600">Flight {flightStatus.flightNumber} ÃÂ¢ÃÂÃÂ¢ {flightStatus.aircraft}</p>
+                    <p className="text-gray-600">Flight {flightStatus.flightNumber} ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢ {flightStatus.aircraft}</p>
                   </div>
                 </div>
 
